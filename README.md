@@ -5,6 +5,8 @@
 ### Codebasics Portfolio: https://codebasics.io/portfolio/Yatin-Govinda-Lokhande
 
 
+# Synopsis
+
 AtliQ Grands is a well-established hospitality company that owns multiple five-star hotels across India. The company has been in the industry for the past 20 years and is known for its luxury and business hotels.
 
 __PROBLEM STATEMENT__
